@@ -1,6 +1,7 @@
 # Online Library
 
-A full-stack cliemt-server application for online library.
+A full-stack client-server application for online library written in node.js and react 17.
+
 ## About Online Library
 
 ### Technologies
