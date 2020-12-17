@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "online_library",
+    "password": "online_library",
+    "database": "online_library",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": true,
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "online_library",
+    "password": "online_library",
+    "database": "online_library",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": true,
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "online_library",
+    "password": "online_library",
+    "database": "online_library",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "operatorsAliases": 0
+  }
+}

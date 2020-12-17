@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src",
+    "src/components",
+    "src/config",
+    "src/data",
+    "src/errors",
+    "src/layouts",
+    "src/pages",
+    "src/services",
+    "src/translations",
+    "src/utils",
+    "src/validators"
+  ]
+}
