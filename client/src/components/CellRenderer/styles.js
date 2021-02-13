@@ -1,4 +1,4 @@
-import { css } from 'emotion/macro';
+import { css } from '@emotion/css/macro';
 
 const crudButton = css`
   margin-right: 4px;

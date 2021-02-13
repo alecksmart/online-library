@@ -1,4 +1,4 @@
-import { css } from 'emotion/macro';
+import { css } from '@emotion/css/macro';
 
 const LanguageSwitcher = css`
   padding: 8px 0;

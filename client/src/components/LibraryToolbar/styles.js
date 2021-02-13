@@ -1,4 +1,4 @@
-import { css } from 'emotion/macro';
+import { css } from '@emotion/css/macro';
 
 const toolbar = css`
   margin: 8px 8px 8px 0;
