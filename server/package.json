@@ -18,13 +18,13 @@
   "author": "Oleksandr Missa",
   "license": "Copyleft",
   "dependencies": {
-    "@babel/runtime": "^7.12.5",
+    "@babel/runtime": "^7.12.13",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
-    "core-js": "^3.8.1",
+    "core-js": "^3.8.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "i18next": "^19.8.4",
+    "i18next": "^19.8.7",
     "i18next-express-middleware": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.20",
@@ -35,16 +35,16 @@
     "yup": "^0.32.8"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
-    "@babel/plugin-transform-runtime": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
-    "@babel/register": "^7.12.10",
+    "@babel/core": "^7.12.16",
+    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/register": "^7.12.13",
     "cross-env": "^7.0.3",
-    "eslint": "^7.15.0",
+    "eslint": "^7.20.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
-    "faker": "^5.1.0",
-    "pino-pretty": "^4.3.0",
+    "faker": "^5.4.0",
+    "pino-pretty": "^4.5.0",
     "sequelize-cli": "^5.5.1"
   }
 }
