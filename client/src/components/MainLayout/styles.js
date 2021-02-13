@@ -1,4 +1,4 @@
-import { css, injectGlobal } from 'emotion/macro';
+import { css, injectGlobal } from '@emotion/css';
 
 // eslint-disable-next-line no-unused-expressions
 injectGlobal`

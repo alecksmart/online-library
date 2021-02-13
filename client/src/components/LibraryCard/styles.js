@@ -1,4 +1,4 @@
-import { css } from 'emotion/macro';
+import { css } from '@emotion/css/macro';
 
 const card = css`
   width: 200px;

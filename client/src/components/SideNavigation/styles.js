@@ -1,4 +1,4 @@
-import { css } from 'emotion/macro';
+import { css } from '@emotion/css/macro';
 
 const menu = css`
   border-right: 0;

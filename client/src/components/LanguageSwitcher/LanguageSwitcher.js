@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Select } from 'antd';
-import { cx } from 'emotion';
+import { cx } from '@emotion/css';
 
 import styles from './styles';
 

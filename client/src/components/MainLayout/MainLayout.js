@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { cx } from 'emotion';
+import { cx } from '@emotion/css';
 import PropTypes from 'prop-types';
 import { Layout, Typography } from 'antd';
 import TopNavigation from 'components/TopNavigation';
