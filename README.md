@@ -6,9 +6,9 @@ A full-stack client-server application for online library written in node.js and
 
 ### Technologies
 
-- [ ] Database: MySQL
-- [ ] Back-end (REST API): JavaScript (nodejs, express)
-- [ ] Front-end: JavaScript (React, Redux)
+- Database: MySQL
+- Back-end (REST API): JavaScript (nodejs, express)
+- Front-end: JavaScript (React, Redux)
 
 ### Installation and running
 
